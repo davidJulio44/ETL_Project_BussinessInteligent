@@ -1,0 +1,8 @@
+olist.db
+*.db
+*.sqlite
+dataset/*.csv
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
